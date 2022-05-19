@@ -1,0 +1,333 @@
+[pl_row pagelayer-id="NTwpqmv5REKsUUbv"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="150px,0px,150px,0px" overlay_transperancy="0.2" overlay_color="#9ca9b0ff" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/banner.jpg" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" ele_padding_mobile="80px,0px,80px,0px" ele_padding_tablet="100px,0px,100px,0px"]
+[pl_col pagelayer-id="DAnXpBsur6jFRoG6"  widget_space="15" overlay_hover_delay="400" ele_bg_type="" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_bg_img="http://sitepad.local/site-data/plugins/pagelayer-pro/images/default-image.png"]
+[pl_heading pagelayer-id="nlX9CndsYC4FQqIU"  heading_state="normal" color="#012233ff" align="center" heading_typo="Cabin,65,,700,,,Solid,,Uppercase,20," animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",25,,,,,Solid,,,5," heading_typo_tablet=",30,,,,,Solid,,,,"]
+
+
+
+
+
+
+
+jose aragones[/pl_heading]
+[pl_text pagelayer-id="jKx96HQ489y7hhDC"  ele_padding="3%,25%,0%,25%" animation="fadeInUp" animation_delay="700" animation_speed="slowest" ele_padding_mobile="0px,0px,0px,0px" ele_padding_tablet="0%,15%,0%,15%"]
+
+
+
+
+<p style="font-family:roboto;font-weight:500;font-size:14px;line-height:1.8;text-align:center;color:#000;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa</p>[/pl_text]
+[pl_social_grp pagelayer-id="wMHDk5sDOQ2pSU6c"  align="center" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="50" icon_size="16" color_scheme="" icon_color="#000000ff" social_hover_delay="400" icon_color_hover="" animation="fadeInUp" animation_delay="800" animation_speed="slowest" icon_spacing_mobile="24" social_hover="hover" icon_spacing_tablet="35"]
+[pl_social pagelayer-id="FJiOzKm8868YTyIU"  icon="fab fa-facebook-f" social_url="https://www.facebook.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="YTz9VcssS2nOowNQ"  icon="fab fa-twitter" social_url="https://twitter.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="a5VomOKY39R1SA3x"  icon="fab fa-instagram" social_url="https://www.instagram.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="qwg2ftVs3mehv6DF"  icon="fab fa-pinterest-p" social_url="https://www.instagram.com/sitepad"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="BAqy4V0hgeBLvril"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="80px,0px,80px,0px" ele_padding_mobile="40px,0px,40px,0px" ele_padding_tablet="50px,0px,50px,0px"]
+[pl_col pagelayer-id="hbPZtBsTczU5e73E"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="jb5vY8NpHCBEHKvf"  heading_state="normal" color="#012233ff" align="center" heading_typo="Cabin,30,,700,,,Solid,,Uppercase,5," animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+
+
+
+
+blogg[/pl_heading]
+[pl_divider pagelayer-id="y5H2yg2kJ8hqaX4M"  divider_style="solid" divider_color="#fcdca9ff" divider_weight="2" divider_widht="7" divider_gap="10" divider_alignment="center" ele_margin="-15px,0px,0px,0px" animation="fadeInUp" animation_delay="700" animation_speed="slowest"]
+[/pl_divider]
+[pl_text pagelayer-id="VctC9XDnnwdO7qvd"  ele_padding="0%,24%,0%,24%" animation="fadeInUp" animation_delay="800" animation_speed="slowest" ele_padding_mobile="0px,0px,0px,0px" ele_padding_tablet="0%,15%,0%,15%"]
+
+
+
+<p style="font-family:roboto;font-weight:500;font-size:14px;line-height:1.8;text-align:center;color:#5d5d5d;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin.</p>[/pl_text]
+[pl_heading pagelayer-id="DIgtMhHVPo3ymkFw"  heading_state="normal" color="#012233ff" align="center" heading_typo="Cabin,18,,700,,,Solid,,Uppercase,2," ele_padding="50px,0px,0px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slowest" ele_padding_mobile="25px,0px,0px,0px" heading_typo_mobile=",14,,,,,Solid,,,," ele_padding_tablet="30px,0px,0px,0px" heading_typo_tablet=",16,,,,,Solid,,,,"]
+
+
+
+
+
+tips & tricks[/pl_heading]
+[pl_heading pagelayer-id="Kb5IKE8Rwvv6kBij"  heading_state="normal" color="#012233ff" align="center" heading_typo="Cabin,24,,700,,,Solid,,Uppercase,5," animation="fadeInUp" animation_delay="700" animation_speed="slowest" heading_typo_mobile=",18,,,,,Solid,,,," heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+
+
+
+how to take good pictures[/pl_heading]
+[pl_divider pagelayer-id="kltHp1Hi4g726ucg"  divider_style="solid" divider_color="#fcdca9ff" divider_weight="2" divider_widht="10" divider_gap="10" divider_alignment="center" ele_margin="-15px,0px,0px,0px" animation="fadeInUp" animation_delay="800" animation_speed="slowest"]
+[/pl_divider]
+[pl_image pagelayer-id="jHtgdfKsOFdXl57p"  id="{{theme_url}}/images/image1.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInUp" animation_delay="900" animation_speed="slowest"]
+
+
+
+
+[/pl_image]
+[pl_text pagelayer-id="352IrrPvZgv8qp3m"  ele_padding="0%,14%,0%,14%" animation="fadeInUp" animation_delay="600" animation_speed="slowest" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+<p style="font-family:roboto;font-weight:500;font-size:14px;line-height:1.8;text-align:center;color:#5d5d5d;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin.</p>[/pl_text]
+[pl_divider pagelayer-id="eiyRqHLnp1WuZuU8"  divider_style="solid" divider_color="#999999ff" divider_weight="1" divider_widht="100" divider_gap="10" divider_alignment="center"]
+[/pl_divider]
+[pl_inner_row pagelayer-id="R291a4q6IvLdZrTb"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="cqDxfK1wZwTl8oXT"  widget_space="15" overlay_hover_delay="400" animation="fadeInLeft" animation_delay="700" animation_speed="slowest" col_width="50"]
+[pl_heading pagelayer-id="kuSUpAKv3XR0qHbW"  heading_state="normal" color="#303030ff" heading_typo="Roboto,14,,500,,,Solid,,,,"]
+
+
+
+
+36 views[/pl_heading]
+[pl_btn pagelayer-id="duuwcDoqA4LeYuOJ"  text="Read more" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-mini" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" link="#" btn_typo="Cabin,14,,700,,,Solid,1,Uppercase,," btn_bg_color="#00000000" btn_color="#303030ff" btn_bg_color_hover="" btn_hover="" btn_border_type="solid" btn_border_color="#fcdca9ff" btn_border_width="2,2,2,2" btn_border_radius="0,0,0,0" btn_typo_mobile=",12,,,,,Solid,,,," btn_typo_tablet=",13,,,,,Solid,,,,"]
+[/pl_btn]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="4PUrBDxUcvuOcohV"  widget_space="15" overlay_hover_delay="400" animation="fadeInRight" animation_delay="800" animation_speed="slowest" col_width="50"]
+[pl_heading pagelayer-id="zBUqC7QiwuDVwib1"  heading_state="normal" color="#303030ff" heading_typo="Roboto,15,,500,,,Solid,,,," align="right"]
+
+
+
+
+Write a comment[/pl_heading]
+[pl_iconbox pagelayer-id="oOh46awduXB7bwWr"  service_icon="fas fa-heart" service_alignment="right" service_vertical_alignment="top" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#fe0000ff" service_icon_font_size="18" service_icon_hover_delay="400" service_bor_state="normal" service_heading="50" heading_alignment="right" service_title_spacing="0,10,10,0" heading_state="normal" service_heading_color="#303030ff" service_heading_typo="Cabin,22,,700,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_heading_typo_mobile=",18,,,,,Solid,,,," service_icon_font_size_mobile="14" service_icon_font_size_tablet="16" service_heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+
+
+
+[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="xk548q4iPz3dYzyp"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="80px,0px,80px,0px" ele_padding_mobile="40px,0px,40px,0px" ele_padding_tablet="0px,0px,0px,0px"]
+[pl_col pagelayer-id="F5W8KqU1XnBHY89T"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="1dc0GSBIbmzKm83L"  heading_state="normal" color="#012233ff" align="center" heading_typo="Cabin,18,,700,,,Solid,,Uppercase,2," ele_padding="0px,0px,0px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",14,,,,,Solid,,,," heading_typo_tablet=",16,,,,,Solid,,,,"]
+
+
+
+architecture[/pl_heading]
+[pl_heading pagelayer-id="zAwOxaaIJOZFuFsU"  heading_state="normal" color="#012233ff" align="center" heading_typo="Cabin,24,,700,,,Solid,,Uppercase,5," animation="fadeInUp" animation_delay="700" animation_speed="slowest" heading_typo_mobile=",18,,,,,Solid,,,," heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+
+
+Great building around[/pl_heading]
+[pl_heading pagelayer-id="SwrEefln7gPKaIBk"  heading_state="normal" color="#012233ff" align="center" heading_typo="Cabin,24,,700,,,Solid,,Uppercase,5," animation="fadeInUp" animation_delay="800" animation_speed="slowest" heading_typo_mobile=",18,,,,,Solid,,,," heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+
+
+the city[/pl_heading]
+[pl_divider pagelayer-id="Q4ATIgM3NQFw4YoR"  divider_style="solid" divider_color="#fcdca9ff" divider_weight="2" divider_widht="10" divider_gap="10" divider_alignment="center" ele_margin="-15px,0px,0px,0px" animation="fadeInUp" animation_delay="900" animation_speed="slowest"]
+[/pl_divider]
+[pl_image pagelayer-id="pN99iUjF5Xo7mxzh"  id="{{theme_url}}/images/image2.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInUp" animation_delay="1000" animation_speed="slowest"]
+
+
+
+
+[/pl_image]
+[pl_text pagelayer-id="qNaQsnL9aTQ5y1Wr"  ele_padding="0%,14%,0%,14%" animation="fadeInUp" animation_delay="600" animation_speed="slowest" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+<p style="font-family:roboto;font-weight:500;font-size:14px;line-height:1.8;text-align:center;color:#5d5d5d;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin.</p>[/pl_text]
+[pl_divider pagelayer-id="sso2ZyEw993kg4jb"  divider_style="solid" divider_color="#999999ff" divider_weight="1" divider_widht="100" divider_gap="10" divider_alignment="center"]
+[/pl_divider]
+[pl_inner_row pagelayer-id="nV3BIdXFUBpW0beH"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="YE6WV3u64cyKUNmP"  widget_space="15" overlay_hover_delay="400" animation="fadeInLeft" animation_delay="700" animation_speed="slowest" col_width="50"]
+[pl_heading pagelayer-id="yuErEl6QbzaqMfUe"  heading_state="normal" color="#303030ff" heading_typo="Roboto,14,,500,,,Solid,,,,"]
+
+
+
+
+36 views[/pl_heading]
+[pl_btn pagelayer-id="HB1eEROMhWHHYQUg"  text="Read more" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-mini" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" link="#" btn_typo="Cabin,14,,700,,,Solid,1,Uppercase,," btn_bg_color="#00000000" btn_color="#303030ff" btn_bg_color_hover="" btn_hover="" btn_border_type="solid" btn_border_color="#fcdca9ff" btn_border_width="2,2,2,2" btn_border_radius="0,0,0,0" btn_typo_mobile=",12,,,,,Solid,,,," btn_typo_tablet=",13,,,,,Solid,,,,"]
+[/pl_btn]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="u3ZWoyraCpCd70MN"  widget_space="15" overlay_hover_delay="400" animation="fadeInRight" animation_delay="800" animation_speed="slowest" col_width="50"]
+[pl_heading pagelayer-id="RQeB0wGI3DGKaLWV"  heading_state="normal" color="#303030ff" heading_typo="Roboto,15,,500,,,Solid,,,," align="right"]
+
+
+
+
+Write a comment[/pl_heading]
+[pl_iconbox pagelayer-id="P1FaKK9f5cT2rDs7"  service_icon="fas fa-heart" service_alignment="right" service_vertical_alignment="top" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#fe0000ff" service_icon_font_size="18" service_icon_hover_delay="400" service_bor_state="normal" service_heading="50" heading_alignment="right" service_title_spacing="0,10,10,0" heading_state="normal" service_heading_color="#303030ff" service_heading_typo="Cabin,22,,700,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_heading_typo_mobile=",18,,,,,Solid,,,," service_icon_font_size_mobile="14" service_icon_font_size_tablet="16" service_heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+
+
+
+[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="LIenUf9lAx7XP1Fn"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="80px,0px,80px,0px" ele_padding_mobile="40px,0px,40px,0px" ele_padding_tablet="50px,0px,50px,0px"]
+[pl_col pagelayer-id="jrGPYZOtkLnPsuK3"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="cBWmExkaNB5epZU7"  heading_state="normal" color="#012233ff" align="center" heading_typo="Cabin,18,,700,,,Solid,,Uppercase,2," ele_padding="0px,0px,0px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",14,,,,,Solid,,,," heading_typo_tablet=",16,,,,,Solid,,,,"]
+
+
+
+lifestyle[/pl_heading]
+[pl_heading pagelayer-id="fYsTBMIqc8ypPfzi"  heading_state="normal" color="#012233ff" align="center" heading_typo="Cabin,24,,700,,,Solid,,Uppercase,5," animation="fadeInUp" animation_delay="700" animation_speed="slowest" heading_typo_mobile=",18,,,,,Solid,,,," heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+
+
+working from home[/pl_heading]
+[pl_divider pagelayer-id="JQURU3Xf0eT32iV5"  divider_style="solid" divider_color="#fcdca9ff" divider_weight="2" divider_widht="10" divider_gap="10" divider_alignment="center" ele_margin="-15px,0px,0px,0px" animation="fadeInUp" animation_delay="800" animation_speed="slowest"]
+[/pl_divider]
+[pl_image pagelayer-id="a7CzQsarilYFuoM0"  id="{{theme_url}}/images/image3.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInUp" animation_delay="1000" animation_speed="slowest"]
+
+
+
+
+[/pl_image]
+[pl_text pagelayer-id="tf6F1rgVHTQ2Jp3a"  ele_padding="0%,14%,0%,14%" animation="fadeInUp" animation_delay="600" animation_speed="slowest" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+<p style="font-family:roboto;font-weight:500;font-size:14px;line-height:1.8;text-align:center;color:#5d5d5d;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin.</p>[/pl_text]
+[pl_divider pagelayer-id="HnvfXfH7pwFEPb6z"  divider_style="solid" divider_color="#999999ff" divider_weight="1" divider_widht="100" divider_gap="10" divider_alignment="center"]
+[/pl_divider]
+[pl_inner_row pagelayer-id="nQwB9h54lU1KGTAY"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="fPw87Sy8ozFVAoia"  widget_space="15" overlay_hover_delay="400" animation="fadeInLeft" animation_delay="600" animation_speed="slowest" col_width="50"]
+[pl_heading pagelayer-id="qmwI83uTsskUwHkW"  heading_state="normal" color="#303030ff" heading_typo="Roboto,14,,500,,,Solid,,,,"]
+
+
+
+
+36 views[/pl_heading]
+[pl_btn pagelayer-id="itKMT9BjUA1nkiLR"  text="Read more" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-mini" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" link="#" btn_typo="Cabin,14,,700,,,Solid,1,Uppercase,," btn_bg_color="#00000000" btn_color="#303030ff" btn_bg_color_hover="" btn_hover="" btn_border_type="solid" btn_border_color="#fcdca9ff" btn_border_width="2,2,2,2" btn_border_radius="0,0,0,0" btn_typo_mobile=",12,,,,,Solid,,,," btn_typo_tablet=",13,,,,,Solid,,,,"]
+[/pl_btn]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="djUaQo5fmkKGN1tj"  widget_space="15" overlay_hover_delay="400" animation="fadeInRight" animation_delay="700" animation_speed="slowest" col_width="50"]
+[pl_heading pagelayer-id="xJE1dw4ME6qNQX1m"  heading_state="normal" color="#303030ff" heading_typo="Roboto,15,,500,,,Solid,,,," align="right"]
+
+
+
+
+Write a comment[/pl_heading]
+[pl_iconbox pagelayer-id="JWfXXU8qRbFq3m88"  service_icon="fas fa-heart" service_alignment="right" service_vertical_alignment="top" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#fe0000ff" service_icon_font_size="18" service_icon_hover_delay="400" service_bor_state="normal" service_heading="50" heading_alignment="right" service_title_spacing="0,10,10,0" heading_state="normal" service_heading_color="#303030ff" service_heading_typo="Cabin,22,,700,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_icon_font_size_mobile="14" service_heading_typo_mobile=",18,,,,,Solid,,,," service_icon_font_size_tablet="16" service_heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+
+
+
+[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="y7UG2ehCOhp9cDLN"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="80px,0px,80px,0px" ele_padding_mobile="40px,0px,40px,0px" ele_padding_tablet="50px,0px,50px,0px"]
+[pl_col pagelayer-id="w65mG8RIJ8xuUFaA"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="OyQuQn3cxLjnfEp4"  heading_state="normal" color="#012233ff" align="center" heading_typo="Cabin,18,,700,,,Solid,,Uppercase,2," ele_padding="0px,0px,0px,0px" animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",14,,,,,Solid,,,," heading_typo_tablet=",16,,,,,Solid,,,,"]
+
+
+
+travel[/pl_heading]
+[pl_heading pagelayer-id="6vGN06sUCCMWUz4h"  heading_state="normal" color="#012233ff" align="center" heading_typo="Cabin,24,,700,,,Solid,,Uppercase,5," animation="fadeInUp" animation_delay="700" animation_speed="slowest" heading_typo_mobile=",18,,,,,Solid,,,," heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+
+
+the places i love[/pl_heading]
+[pl_divider pagelayer-id="L3mOJvTUpOGGY485"  divider_style="solid" divider_color="#fcdca9ff" divider_weight="2" divider_widht="10" divider_gap="10" divider_alignment="center" ele_margin="-15px,0px,0px,0px" animation="fadeInUp" animation_delay="800" animation_speed="slowest"]
+[/pl_divider]
+[pl_image pagelayer-id="Qm9UX5o0zkRhsq8T"  id="{{theme_url}}/images/image4.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInUp" animation_delay="900" animation_speed="slowest"]
+
+
+
+
+[/pl_image]
+[pl_text pagelayer-id="cOnnJERdytmsM3ya"  ele_padding="0%,14%,0%,14%" animation="fadeInUp" animation_delay="600" animation_speed="slowest" ele_padding_mobile="0px,0px,0px,0px"]
+
+
+
+<p style="font-family:roboto;font-weight:500;font-size:14px;line-height:1.8;text-align:center;color:#5d5d5d;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin.</p>[/pl_text]
+[pl_divider pagelayer-id="83VnsRy4485YonPc"  divider_style="solid" divider_color="#999999ff" divider_weight="1" divider_widht="100" divider_gap="10" divider_alignment="center"]
+[/pl_divider]
+[pl_inner_row pagelayer-id="qbHojzp8kmGgZ2sD"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="ScKlN6iCI4UziBWI"  widget_space="15" overlay_hover_delay="400" animation="fadeInLeft" animation_delay="700" animation_speed="slowest" col_width="50"]
+[pl_heading pagelayer-id="4UkOrEhs4nLOpvRx"  heading_state="normal" color="#303030ff" heading_typo="Roboto,14,,500,,,Solid,,,,"]
+
+
+
+
+36 views[/pl_heading]
+[pl_btn pagelayer-id="KosZa4jF6v04IKqy"  text="Read more" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-mini" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" link="#" btn_typo="Cabin,14,,700,,,Solid,1,Uppercase,," btn_bg_color="#00000000" btn_color="#303030ff" btn_bg_color_hover="" btn_hover="" btn_border_type="solid" btn_border_color="#fcdca9ff" btn_border_width="2,2,2,2" btn_border_radius="0,0,0,0" btn_typo_mobile=",12,,,,,Solid,,,," btn_typo_tablet=",13,,,,,Solid,,,,"]
+[/pl_btn]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="eEgIchyTBgVfBmNY"  widget_space="15" overlay_hover_delay="400" animation="fadeInRight" animation_delay="800" animation_speed="slowest" col_width="50"]
+[pl_heading pagelayer-id="5qrDuEEpIsVyWS5j"  heading_state="normal" color="#303030ff" heading_typo="Roboto,15,,500,,,Solid,,,," align="right"]
+
+
+
+
+Write a comment[/pl_heading]
+[pl_iconbox pagelayer-id="eMimp67puETe1OML"  service_icon="fas fa-heart" service_alignment="right" service_vertical_alignment="top" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#fe0000ff" service_icon_font_size="18" service_icon_hover_delay="400" service_bor_state="normal" service_heading="50" heading_alignment="right" service_title_spacing="0,10,10,0" heading_state="normal" service_heading_color="#303030ff" service_heading_typo="Cabin,22,,700,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_icon_font_size_mobile="14" service_heading_typo_mobile=",18,,,,,Solid,,,," service_icon_font_size_tablet="16" service_heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+
+
+
+[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="4X2w5H53YeXqOsjF"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="dTgHwbXQoFbvOmmN"  widget_space="15" overlay_hover_delay="400"]
+[pl_btn pagelayer-id="YnjRy1zwxVNuvYxO"  text="more post" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-mini" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" link="#" btn_typo="Cabin,14,,700,,,Solid,1,Uppercase,," btn_bg_color="#00000000" btn_color="#303030ff" btn_bg_color_hover="" btn_hover="" btn_border_type="solid" btn_border_color="#fcdca9ff" btn_border_width="2,2,2,2" btn_border_radius="0,0,0,0" ele_padding="30px,0px,0px,0px" animation="fadeInUp" animation_delay="900" animation_speed="slowest" btn_typo_mobile=",12,,,,,Solid,,,," ele_padding_mobile="15px,0px,0px,0px" btn_typo_tablet=",13,,,,,Solid,,,," ele_padding_tablet="15px,0px,0px,0px"]
+[/pl_btn]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="JL7yguFowePXdsBS"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="0px,0px,80px,0px" ele_padding_mobile="0px,0px,40px,0px"]
+[pl_col pagelayer-id="lT1LZM4HWPtWTxH1"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="FWROoPgRVMISyA4K"  heading_state="normal" color="#012233ff" align="center" heading_typo="Cabin,30,,700,,,Solid,,Uppercase,5," animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+
+
+about me[/pl_heading]
+[pl_divider pagelayer-id="D5AC8Sehh3289Jj0"  divider_style="solid" divider_color="#fcdca9ff" divider_weight="2" divider_widht="7" divider_gap="10" divider_alignment="center" ele_margin="-15px,0px,0px,0px" animation="fadeInUp" animation_delay="700" animation_speed="slowest"]
+[/pl_divider]
+[pl_text pagelayer-id="KA4Egd7y7TynAuQM"  ele_padding="0%,24%,0%,24%" animation="fadeInUp" animation_delay="800" animation_speed="slowest" ele_padding_mobile="0px,0px,0px,0px" ele_padding_tablet="0%,15%,0%,15%"]
+
+
+
+<p style="font-family:roboto;font-weight:500;font-size:14px;line-height:1.8;text-align:center;color:#5d5d5d;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin.</p>[/pl_text]
+[pl_inner_row pagelayer-id="owEDwxkzZpf2cvXr"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" content_pos="center" ele_padding="30px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="DAVuFoMNhE8Ac0bp"  widget_space="15" overlay_hover_delay="400" col_width="50" col_width_mobile="100"]
+[pl_heading pagelayer-id="q5oiSjbreUmBSj9A"  heading_state="normal" color="#012233ff" align="left" heading_typo="Cabin,40,,700,,,Solid,,,2," animation="fadeInUp" animation_delay="600" animation_speed="slowest" heading_typo_mobile=",25,,,,,Solid,,,," heading_typo_tablet=",28,,,,,Solid,,,,"]
+
+
+
+Hi...[/pl_heading]
+[pl_text pagelayer-id="XsTCWmMY4CaQEVzQ"  ele_padding="3%,0%,0%,0%" animation="fadeInUp" animation_delay="700" animation_speed="slowest"]
+
+
+
+<p style="font-family:roboto;font-weight:500;font-size:14px;line-height:2;text-align:left;color:#5d5d5d;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin. Pellentesque non eros ante. Vestibulum sed tristique massa. Quisque et feugiat risus, eu tristique felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla facilisi. Pellentesque varius ipsum in urna semper volutpat. Etiam ac magna scelerisque, sodales enim at, interdum nibh. Nulla nec blandit orci. Ut suscipit sollicitudin varius. Etiam ut bibendum purus, sit amet tristique lectus</p>[/pl_text]
+[pl_text pagelayer-id="3dyKn75X7zzceWV0"  ele_padding="0%,0%,0%,0%" animation="fadeInUp" animation_delay="800" animation_speed="slowest" hide_tablet="true"]
+
+
+
+<p style="font-family:roboto;font-weight:500;font-size:14px;line-height:2;text-align:left;color:#5d5d5d;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin. Pellentesque non eros ante. Vestibulum sed tristique massa. Quisque et feugiat risus, eu tristique felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla facilisi. Pellentesque varius ipsum in urna semper volutpat. Etiam ac magna scelerisque, sodales enim at, interdum nibh. Nulla nec blandit orci. Ut suscipit sollicitudin varius. Etiam ut bibendum purus, sit amet tristique lectus</p>[/pl_text]
+[pl_text pagelayer-id="mIl0VZN3IHkOQALa"  ele_padding="0%,0%,0%,0%" animation="fadeInUp" animation_delay="900" animation_speed="slowest"]
+
+
+
+<p style="font-family:roboto;font-weight:500;font-size:14px;line-height:2;text-align:left;color:#5d5d5d;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi.</p>[/pl_text]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="n5V2XyKbCcl3BEQm"  widget_space="15" overlay_hover_delay="400" col_width="50"]
+[pl_image pagelayer-id="I4Fpvzkw4l88mOgh"  id="{{theme_url}}/images/about.jpg" id-size="full" align="left" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInRight" animation_delay="700" animation_speed="slowest"]
+
+
+
+[/pl_image]
+[pl_heading pagelayer-id="GPrxHYNXUC6ph7YW"  heading_state="normal" color="#012233ff" align="center" heading_typo="Cabin,28,,700,,,Solid,,Uppercase,5," animation="fadeInRight" animation_delay="800" animation_speed="slowest" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+
+
+
+
+
+
+jose aragones[/pl_heading]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
